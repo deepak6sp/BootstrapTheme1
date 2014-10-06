@@ -1,6 +1,0 @@
-@CHARSET "ISO-8859-1";
-
-div h1{
-	color: #384047;
-    text-shadow: 1px 1px 1px rgba(56, 64, 71, 0.05);
-}

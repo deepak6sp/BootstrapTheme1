@@ -1,8 +1,0 @@
-@CHARSET "ISO-8859-1";
-
-.align_center{
-	text-align:center;
-}
-.align_justify{
-	text-align:justify;
-}
